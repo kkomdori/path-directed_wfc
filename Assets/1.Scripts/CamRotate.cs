@@ -10,6 +10,8 @@ public class CamRotate : MonoBehaviour
 
     private void Update()
     {
+        if (Cursor.lockState == CursorLockMode.None) return;
+
         float mouse_Y = Input.GetAxis("Mouse Y");
         mv += mouse_Y * rotSpeed;
         mv = Mathf.Clamp(mv, -90f, 90f);

@@ -12,6 +12,8 @@ public class PlayerRotate : MonoBehaviour
 
     private void Update()
     {
+        if (Cursor.lockState == CursorLockMode.None) return;
+
         float mouse_X = Input.GetAxis("Mouse X");
         mh += mouse_X * rotSpeed;
 
