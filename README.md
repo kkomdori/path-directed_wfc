@@ -17,7 +17,7 @@
 ### Notice
 
 - This project has been built with Unity 2022.3.22f1 (https://unity.com/kr/releases/editor/whats-new/2022.3.22f1#installs)
-- Please see other original WFC projects:
+- Please check out the original WFC projects from other developers:
   - https://github.com/mxgmn/WaveFunctionCollapse
   - https://github.com/marian42/wavefunctioncollapse
   - https://github.com/selfsame/unity-wave-function-collapse
