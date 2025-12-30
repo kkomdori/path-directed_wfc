@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3320ff961475aa48b6e2e9192de7379, type: 3}
+  m_Name: CubeData_1xBeam 3
+  m_EditorClassIdentifier: 
+  cubePrefab: {fileID: 7870335599574022458, guid: 5778e84696b88a7439e5fc151b54ad92, type: 3}
+  cubeName: 
+  weight: 1
+  rNum: 0
+  scale: 1
+  yOffset: 0
+  isEnablePaint: 1
+  excludeAtSide: 0
+  excludeAtTop: 0
+  excludeAtBottom: 0
+  excludeYRange:
+    isEnable: 0
+    min: 0
+    max: 0
+  notAllowDimer: 0
+  x: 3
+  x0: 3
+  y: 2
+  y0: 2
+  z: 3
+  z0: 3
+  serialNo: 0
