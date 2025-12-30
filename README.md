@@ -9,3 +9,11 @@
   <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1a3601f0-4fb3-41f0-84ac-997e67c39ff5" />
 </div>
 <br>
+
+### Notice
+
+- This project has been built with Unity 2022.3.22f1 (https://unity.com/kr/releases/editor/whats-new/2022.3.22f1#installs)
+- Please see other original WFC projects:
+  - https://github.com/mxgmn/WaveFunctionCollapse
+  - https://github.com/marian42/wavefunctioncollapse
+  - https://github.com/selfsame/unity-wave-function-collapse
